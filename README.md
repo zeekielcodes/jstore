@@ -16,7 +16,7 @@
 
 ## Author
 
-- Portfolio - [Ezekiel The Face](https://thefacecodes.web..app)
+- Portfolio - [Ezekiel The Face](https://thefacecodes.web.app)
 - Twitter - [@thefacecodes](https://www.twitter.com/thefacecodes)
 
 ## Project setup
