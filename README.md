@@ -1,4 +1,23 @@
-# jessicastore
+# JStore
+
+### Screenshot
+
+![](./src/assets/screenshot.png)
+
+### Link
+
+- Live Site URL: [Visit live site](https://jstore-theface.netlify.app)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Vue JS
+
+## Author
+
+- Portfolio - [Ezekiel The Face](https://thefacecodes.web..app)
+- Twitter - [@thefacecodes](https://www.twitter.com/thefacecodes)
 
 ## Project setup
 ```
